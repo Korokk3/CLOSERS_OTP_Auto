@@ -6,7 +6,6 @@
 // @author       Korokk3
 // @match        https://www.naddic.co.kr/ko/web/member/login*
 // @match        https://www.naddic.co.kr/ko/service/otp*
-// @match        https://www.naddic.co.kr/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=naddic.co.kr
 // @grant        none
 // @require      https://raw.githubusercontent.com/jiangts/JS-OTP/refs/heads/master/js/sha_dev.js

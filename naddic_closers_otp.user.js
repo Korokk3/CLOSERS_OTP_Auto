@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Naddic Closers OTP
-// @namespace    https://www.naddic.co.kr
-// @version      2025-09-19v2
+// @namespace    Naddic_Closers_OTP
+// @version      2025-09-19v3
 // @description  클로저스 공식 홈페이지 (나딕게임즈) OTP 자동 입력
 // @author       Korokk3
 // @match        https://www.naddic.co.kr/ko/web/member/login*
@@ -112,3 +112,4 @@
         });
     }
 })();
+
